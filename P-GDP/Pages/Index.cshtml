@@ -1,0 +1,107 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Formación en Belleza - Zen Academy";
+}
+
+<!-- Sección de bienvenida y presentación -->
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4">Bienvenidos a Joe&Maria</h1>
+        <p class="lead">Donde la belleza y el bienestar se encuentran en equilibrio.</p>
+        <hr class="my-4" />
+        <p>
+            Explora nuestros cursos y talleres para convertirte en un experto en tratamientos de belleza, con un enfoque en técnicas modernas y tradicionales de armonía y bienestar.
+        </p>
+    </div>
+</div>
+
+<!-- Sección de Misión y Visión -->
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Misión</h2>
+            <p>
+                Nuestra misión es proporcionar una formación integral en el mundo de la belleza y el bienestar, enfocada en técnicas innovadoras y holísticas que promuevan tanto la estética como el equilibrio emocional y físico.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <h2>Visión</h2>
+            <p>
+                Ser líderes en la formación de profesionales de la belleza, brindando a nuestros estudiantes las herramientas necesarias para destacarse en un mercado competitivo, mientras promueven un enfoque saludable y equilibrado de la belleza.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Sección de Profesionales -->
+<div class="container mt-5">
+    <h2 class="text-center">Nuestros Profesionales</h2>
+    <p class="text-center">Expertos certificados en cada una de las áreas que impartimos.</p>
+    <div class="row text-center">
+        <div class="col-md-4">
+            <img src="~/images/profesional1.jpg" alt="Profesional 1" class="img-fluid rounded-circle mb-3">
+            <h4>Laura González</h4>
+            <p>Especialista en micropigmentación y tratamientos faciales.</p>
+            <a class="btn btn-outline-primary" asp-page="/Professional/Laura">Ver perfil</a>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/profesional2.jpg" alt="Profesional 2" class="img-fluid rounded-circle mb-3">
+            <h4>Carlos López</h4>
+            <p>Experto en masajes zen y terapias de bienestar.</p>
+            <a class="btn btn-outline-primary" asp-page="/Professional/Carlos">Ver perfil</a>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/profesional3.jpg" alt="Profesional 3" class="img-fluid rounded-circle mb-3">
+            <h4>María Fernández</h4>
+            <p>Instructor de maquillaje profesional y cosmetología.</p>
+            <a class="btn btn-outline-primary" asp-page="/Professional/Maria">Ver perfil</a>
+        </div>
+    </div>
+</div>
+
+<!-- Sección de Galería de Imágenes Explicativas -->
+<div class="container mt-5">
+    <h2 class="text-center">Descubre Nuestros Cursos</h2>
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <img src="~/images/curso1.jpg" alt="Curso de Micropigmentación" class="img-fluid rounded">
+            <h4 class="text-center mt-2">Curso de Micropigmentación</h4>
+            <p class="text-center">Aprende a perfeccionar la técnica de micropigmentación en cejas, labios y más.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+            <img src="~/images/curso2.jpg" alt="Curso de Masajes Zen" class="img-fluid rounded">
+            <h4 class="text-center mt-2">Curso de Masajes Zen</h4>
+            <p class="text-center">Técnicas de masaje para la relajación profunda y el equilibrio energético.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+            <img src="~/images/curso3.jpg" alt="Curso de Maquillaje Profesional" class="img-fluid rounded">
+            <h4 class="text-center mt-2">Curso de Maquillaje Profesional</h4>
+            <p class="text-center">Desarrolla habilidades avanzadas en maquillaje para eventos y pasarela.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+            <img src="~/images/curso4.jpg" alt="Curso de Cosmetología" class="img-fluid rounded">
+            <h4 class="text-center mt-2">Curso de Cosmetología</h4>
+            <p class="text-center">Explora tratamientos faciales y corporales para mejorar la piel y el bienestar general.</p>
+        </div>
+    </div>
+</div>
+
+<!-- Sección de Información de Contacto -->
+<div class="container mt-5 mb-5">
+    <h2 class="text-center">Contacto</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <h4>Teléfono</h4>
+            <p><a href="tel:+528183456789">+52 81 8345 6789</a></p>
+        </div>
+        <div class="col-md-6">
+            <h4>Email</h4>
+            <p><a href="mailto:info@zenacademy.com">info@zenacademy.com</a></p>
+        </div>
+        <div class="col-md-12 text-center mt-3">
+            <h4>Dirección</h4>
+            <p>Calle Armonía 123, Colonia Zen, Monterrey, NL, México</p>
+        </div>
+    </div>
+</div>

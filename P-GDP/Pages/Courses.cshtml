@@ -1,0 +1,24 @@
+﻿@page
+@model CoursesModel
+@{
+    ViewData["Title"] = "Cursos Disponibles";
+}
+
+<div class="container">
+    <h2 class="text-center my-4">Lista de Cursos</h2>
+    <div class="row">
+        @foreach (var course in Model.Courses)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="~/images/@course.Image" class="card-img-top" alt="Imagen del curso">
+                    <div class="card-body">
+                        <h5 class="card-title">@course.Title</h5>
+                        <p class="card-text">@course.Description</p>
+                        <a href="@Url.Page("CourseDetails", new { id = course.Id })" class="btn btn-primary">Ver detalles</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
