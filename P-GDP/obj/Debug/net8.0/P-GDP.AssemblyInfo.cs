@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P-GDP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac803076be6b9128f083dc53bb3476d27ef4a3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("P-GDP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P-GDP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

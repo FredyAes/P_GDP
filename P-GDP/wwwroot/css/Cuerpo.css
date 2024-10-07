@@ -1,0 +1,11 @@
+﻿.fixed-size-img {
+    width: 380px;
+    height: 380px;
+    object-fit: cover;
+}
+
+.fixed-size-img {
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+}

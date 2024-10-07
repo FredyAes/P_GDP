@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alfre\\source\\repos\\P-GDP\\",
+  "WorkspaceRootPath": "C:\\Users\\aleja\\source\\repos\\P_GDP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\wwwroot\\css\\cuerpo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\wwwroot\\css\\cuerpo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\alfre\\source\\repos\\p-gdp\\p-gdp\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|c:\\users\\aleja\\source\\repos\\p_gdp\\p-gdp\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F057453-70F9-4584-B669-672281913E32}|P-GDP\\P-GDP.csproj|solutionrelative:p-gdp\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuerpo.css",
+              "DocumentMoniker": "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\wwwroot\\css\\Cuerpo.css",
+              "RelativeDocumentMoniker": "P-GDP\\wwwroot\\css\\Cuerpo.css",
+              "ToolTip": "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\wwwroot\\css\\Cuerpo.css",
+              "RelativeToolTip": "P-GDP\\wwwroot\\css\\Cuerpo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-07T01:05:45.507Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Index.cshtml",
               "RelativeToolTip": "P-GDP\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAC1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-06T19:13:53.231Z",
               "EditorCaption": ""
@@ -61,9 +98,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Courses.cshtml",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Courses.cshtml",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Courses.cshtml",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Courses.cshtml",
               "RelativeToolTip": "P-GDP\\Pages\\Courses.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "P-GDP\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T19:06:21.252Z",
               "EditorCaption": ""
@@ -87,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "P-GDP\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "P-GDP\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "P-GDP\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-06T19:04:02.516Z",
               "EditorCaption": ""
@@ -126,22 +163,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "P-GDP\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-06T19:01:01.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Courses.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Courses.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Courses.cshtml.cs",
               "RelativeDocumentMoniker": "P-GDP\\Pages\\Courses.cshtml.cs",
-              "ToolTip": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\Pages\\Courses.cshtml.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\P_GDP\\P-GDP\\Pages\\Courses.cshtml.cs",
               "RelativeToolTip": "P-GDP\\Pages\\Courses.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\P-GDP.csproj": {}
+    "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\P-GDP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\P-GDP.csproj": {
+    "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\P-GDP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\P-GDP.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\P-GDP.csproj",
         "projectName": "P-GDP",
-        "projectPath": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\P-GDP.csproj",
-        "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\repos\\P-GDP\\P-GDP\\obj\\",
+        "projectPath": "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\P-GDP.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleja\\Source\\Repos\\P_GDP\\P-GDP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
